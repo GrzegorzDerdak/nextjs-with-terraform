@@ -1,0 +1,6 @@
+# Vercel API token with sufficient permissions
+vercel_api_token = ""
+
+# Stripe secret keys for different environments
+stripe_secret_test = "sk_test_XYZ"
+stripe_secret_live = "sk_live_XYZ"
